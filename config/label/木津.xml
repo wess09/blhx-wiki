@@ -3,7 +3,7 @@
 	<filename>木津.png</filename>
 	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\木津.png</path>
 	<source>
-		<database>alpha</database>
+		<database>manual</database>
 	</source>
 	<size>
 		<width>2025</width>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2</xmin>
-			<ymin>1</ymin>
-			<xmax>2023</xmax>
-			<ymax>2044</ymax>
+			<xmin>690</xmin>
+			<ymin>690</ymin>
+			<xmax>1285</xmax>
+			<ymax>1585</ymax>
 		</bndbox>
 	</object>
 </annotation>

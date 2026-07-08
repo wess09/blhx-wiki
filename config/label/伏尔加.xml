@@ -1,26 +1,26 @@
 <annotation>
-	<folder>新建文件夹</folder>
+	<folder>ship</folder>
 	<filename>伏尔加.png</filename>
-	<path>G:\wei\program\labelimg\新建文件夹\伏尔加.png</path>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\伏尔加.png</path>
 	<source>
-		<database>Unknown</database>
+		<database>anime-person</database>
 	</source>
 	<size>
 		<width>2048</width>
 		<height>1874</height>
-		<depth>3</depth>
+		<depth>4</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>ship</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>781</xmin>
-			<ymin>696</ymin>
-			<xmax>1092</xmax>
-			<ymax>1167</ymax>
+			<xmin>690</xmin>
+			<ymin>588</ymin>
+			<xmax>1157</xmax>
+			<ymax>1412</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,14 +1,14 @@
 <annotation>
 	<folder>ship</folder>
 	<filename>岛风.png</filename>
-	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\岛风.png</path>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\岛风.png</path>
 	<source>
-		<database>Unknown</database>
+		<database>anime-person</database>
 	</source>
 	<size>
 		<width>2048</width>
 		<height>1927</height>
-		<depth>3</depth>
+		<depth>4</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>798</xmin>
-			<ymin>851</ymin>
-			<xmax>1217</xmax>
-			<ymax>1577</ymax>
+			<xmin>681</xmin>
+			<ymin>687</ymin>
+			<xmax>1313</xmax>
+			<ymax>1818</ymax>
 		</bndbox>
 	</object>
 </annotation>
