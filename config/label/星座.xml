@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>星座.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\星座.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>1822</width>
+		<height>2048</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>193</ymin>
+			<xmax>1738</xmax>
+			<ymax>2045</ymax>
+		</bndbox>
+	</object>
+</annotation>

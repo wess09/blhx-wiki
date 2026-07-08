@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>八舞耶俱矢・八舞夕弦.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\八舞耶俱矢・八舞夕弦.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2002</width>
+		<height>2048</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1022</xmin>
+			<ymin>983</ymin>
+			<xmax>1466</xmax>
+			<ymax>1718</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>战争协议-玉轮.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\战争协议-玉轮.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>1952</width>
+		<height>1626</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>148</ymin>
+			<xmax>888</xmax>
+			<ymax>1457</ymax>
+		</bndbox>
+	</object>
+</annotation>

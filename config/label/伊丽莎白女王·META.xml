@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>伊丽莎白女王·META.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\伊丽莎白女王·META.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1480</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>915</xmin>
+			<ymin>509</ymin>
+			<xmax>1249</xmax>
+			<ymax>1279</ymax>
+		</bndbox>
+	</object>
+</annotation>

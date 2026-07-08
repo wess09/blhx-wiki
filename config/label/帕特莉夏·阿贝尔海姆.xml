@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>帕特莉夏·阿贝尔海姆.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\帕特莉夏·阿贝尔海姆.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1575</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1130</xmin>
+			<ymin>2</ymin>
+			<xmax>2046</xmax>
+			<ymax>1437</ymax>
+		</bndbox>
+	</object>
+</annotation>

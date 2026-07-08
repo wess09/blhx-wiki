@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>金鹿号.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\金鹿号.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1826</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymin>581</ymin>
+			<xmax>1177</xmax>
+			<ymax>1565</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>西连寺春菜.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\西连寺春菜.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2041</width>
+		<height>1859</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>125</ymin>
+			<xmax>1978</xmax>
+			<ymax>1725</ymax>
+		</bndbox>
+	</object>
+</annotation>

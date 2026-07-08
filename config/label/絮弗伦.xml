@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>絮弗伦.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\絮弗伦.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1984</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>316</ymin>
+			<xmax>1339</xmax>
+			<ymax>1602</ymax>
+		</bndbox>
+	</object>
+</annotation>

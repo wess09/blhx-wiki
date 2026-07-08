@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>命运女神·META.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\命运女神·META.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>1614</width>
+		<height>2048</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>514</xmin>
+			<ymin>620</ymin>
+			<xmax>1051</xmax>
+			<ymax>1923</ymax>
+		</bndbox>
+	</object>
+</annotation>

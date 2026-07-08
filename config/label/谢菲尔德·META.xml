@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>谢菲尔德·META.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\谢菲尔德·META.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>2043</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>514</xmin>
+			<ymin>751</ymin>
+			<xmax>1143</xmax>
+			<ymax>1850</ymax>
+		</bndbox>
+	</object>
+</annotation>

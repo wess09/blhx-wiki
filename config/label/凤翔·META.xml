@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>凤翔·META.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\凤翔·META.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1659</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>543</ymin>
+			<xmax>1269</xmax>
+			<ymax>1402</ymax>
+		</bndbox>
+	</object>
+</annotation>

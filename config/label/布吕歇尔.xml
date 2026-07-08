@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>布吕歇尔.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\布吕歇尔.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>1958</width>
+		<height>2045</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>125</ymin>
+			<xmax>1809</xmax>
+			<ymax>2037</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>领航员-TB.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\领航员-TB.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>892</width>
+		<height>2041</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>0</ymin>
+			<xmax>891</xmax>
+			<ymax>1831</ymax>
+		</bndbox>
+	</object>
+</annotation>

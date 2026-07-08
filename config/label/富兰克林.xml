@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>富兰克林.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\富兰克林.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1447</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>798</xmin>
+			<ymin>698</ymin>
+			<xmax>1288</xmax>
+			<ymax>1446</ymax>
+		</bndbox>
+	</object>
+</annotation>

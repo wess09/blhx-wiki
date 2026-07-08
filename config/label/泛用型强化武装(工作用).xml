@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>泛用型强化武装(工作用).png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\泛用型强化武装(工作用).png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>1352</width>
+		<height>1400</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>420</ymin>
+			<xmax>1197</xmax>
+			<ymax>1359</ymax>
+		</bndbox>
+	</object>
+</annotation>

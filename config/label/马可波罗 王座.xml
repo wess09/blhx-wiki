@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>马可波罗 王座.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\马可波罗 王座.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1753</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1039</xmin>
+			<ymin>487</ymin>
+			<xmax>1421</xmax>
+			<ymax>1441</ymax>
+		</bndbox>
+	</object>
+</annotation>

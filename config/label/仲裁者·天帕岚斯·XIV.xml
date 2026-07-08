@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>仲裁者·天帕岚斯·XIV.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\仲裁者·天帕岚斯·XIV.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2043</width>
+		<height>2007</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>6</ymin>
+			<xmax>1439</xmax>
+			<ymax>2004</ymax>
+		</bndbox>
+	</object>
+</annotation>

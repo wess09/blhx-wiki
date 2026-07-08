@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>维序者·埃尔·ACE.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\维序者·埃尔·ACE.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1668</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>270</ymin>
+			<xmax>1242</xmax>
+			<ymax>1468</ymax>
+		</bndbox>
+	</object>
+</annotation>

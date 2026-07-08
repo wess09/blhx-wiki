@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>仲裁者·沐恩·XVIII.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\仲裁者·沐恩·XVIII.png</path>
+	<source>
+		<database>alpha</database>
+	</source>
+	<size>
+		<width>2043</width>
+		<height>1626</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>1</ymin>
+			<xmax>2039</xmax>
+			<ymax>1624</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>入浴的小恶魔.png</filename>
+	<path>C:\Users\AzurLane\Desktop\Projects\nonebot-blhxwiki\blhx-wiki\image\ship\入浴的小恶魔.png</path>
+	<source>
+		<database>anime-person</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1256</height>
+		<depth>4</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>110</ymin>
+			<xmax>1578</xmax>
+			<ymax>1244</ymax>
+		</bndbox>
+	</object>
+</annotation>
